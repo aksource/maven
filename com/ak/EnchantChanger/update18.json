@@ -1,0 +1,13 @@
+{
+  //URL to display in ModList GUI when an update is avalible
+  "homepage": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6672",
+  "promos": {
+    "{1.8}-latest"     : "1.8.39",
+    "{1.8}-recomended" : "1.8.39"
+  },
+  "{1.8}" : {
+    // The changelog will be a ordered list of all entries in this this whos key is >= CURRENT_VERSION && <= TARGET version
+    "1.8.39" : "Changelog seince last build",
+    "1.8.38" : "Fixed api error that was happened to start MC installing BC without CofhCore.(1.7.10)"
+  }
+}

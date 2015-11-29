@@ -3,12 +3,13 @@
   <groupId>com.ak</groupId>
   <artifactId>PotionExtension</artifactId>
   <versioning>
-    <release>1.8-1.1.2</release>
+    <release>1.8.8-1.2.0</release>
     <versions>
       <version>1.8-1.1.1</version>
       <version>1.7.10-1.1.1</version>
       <version>1.8-1.1.2</version>
+      <version>1.8.8-1.2.0</version>
     </versions>
-    <lastUpdated>20151109141653</lastUpdated>
+    <lastUpdated>20151129120218</lastUpdated>
   </versioning>
 </metadata>
